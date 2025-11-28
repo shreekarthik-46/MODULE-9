@@ -1,4 +1,4 @@
-# Matrix Operations-Diagonal Matrix Elements Printer 
+# 9)c) Matrix Operations-Diagonal Matrix Elements Printer 
 
 This Python program reads a matrix of any size from the user and prints **only the diagonal elements**, leaving other elements blank in the output.
 
