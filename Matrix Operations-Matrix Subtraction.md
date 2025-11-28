@@ -1,9 +1,9 @@
-# #  Matrix Operations-Matrix Subtraction in Python
+# 9)d)  Matrix Operations-Matrix Subtraction in Python
 
 ## AIM:
 To write a Python program that reads two matrices from the user and performs matrix subtraction.
 
----
+
 
 ##  ALGORITHM:
 
@@ -19,7 +19,7 @@ To write a Python program that reads two matrices from the user and performs mat
 8. Print the resulting matrix `C`
 9. **Stop**
 
----
+
 
 ##  PROGRAM:
 ```
