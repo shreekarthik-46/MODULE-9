@@ -1,11 +1,11 @@
-#  List Comprehension:Transpose of Matrix 
+# 9)b) List Comprehension:Transpose of Matrix 
 
-##  AIM:
+#  AIM:
 To write a Python program to compute the **transpose** of a matrix using **list comprehension**.
 
----
 
-##  ALGORITHM:
+
+# ALGORITHM:
 
 1. **Start**
 2. Create variables `r` and `c` to represent the number of rows and columns of the matrix.
@@ -15,7 +15,7 @@ To write a Python program to compute the **transpose** of a matrix using **list 
 6. Print the transposed matrix.
 7. **Stop**
 
----
+
 
 ##  PROGRAM:
 ```
