@@ -1,10 +1,10 @@
-# List Comprehension:Generates all odd numbers between 500 and 600
+# 9)a) List Comprehension:Generates all odd numbers between 500 and 600
 ##  AIM:
 To write a Python class-based program that generates all odd numbers between 500 and 600 using **list comprehension**, and stores them in a list.
 
----
 
-##  ALGORITHM:
+
+#  ALGORITHM:
 
 1. **Start**
 2. Create a class named `Generate`
@@ -17,9 +17,9 @@ To write a Python class-based program that generates all odd numbers between 500
 6. Print the resulting list of odd numbers
 7. **Stop**
 
----
 
-##  PROGRAM:
+
+#  PROGRAM:
 
 ```
 class Generate:
